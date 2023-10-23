@@ -1,0 +1,46 @@
+/* Add some padding to the container */
+.container {
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  /* Style the form input and button */
+  .form-group input[type="file"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+  }
+  
+  .btn-primary {
+    padding: 10px 20px;
+  }
+  
+  /* Style the merged PDF link */
+  #output {
+    display: none;
+    margin-top: 20px;
+  }
+  
+  #downloadLink {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  /* Style the navigation bar */
+  .navbar {
+    margin-bottom: 20px;
+  }
+  
+  /* Center the page title */
+  h1 {
+    text-align: center;
+  }
+  
+  /* Center the form */
+  form {
+    text-align: center;
+  }
+  
